@@ -1,5 +1,5 @@
 ---
-title: Cloud Compiler API
+title: Documentation | Cloud Compiler API
   
 toc_footers:
   - <p>&nbsp;&nbsp;&nbsp;&nbsp;Developed by <a href="https://github.com/harish095">Harish Kandala</a></p>
